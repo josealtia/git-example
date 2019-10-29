@@ -1,1 +1,3 @@
-<?php \n echo 'HOLA';
+<?php 
+
+echo 'adios';
