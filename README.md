@@ -1,5 +1,3 @@
 Hola
 
-UNO
-
-dos
+agregado index.php
